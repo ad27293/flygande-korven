@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.logo{
+display: block;
+width:100%;
+height: auto;
+margin-bottom:20px;
+}
+
+body {
+    background-color: rgb(220, 216, 216);
+    margin: 50;
+    padding: 90px;
+}
+
+.menu-card {
+    background-color:white;
+    padding:24px;
+    width:320px;
+        border-radius: 20px;
+}
+       
+.description {
+      font-size: 14px;
+      line-height: 20px
+    }
+ header{
+          margin-bottom: 48px;
+        }
+
+header {
+    margin-bottom: 48px;
+}
+
+footer{
+          margin-top: 48px; }
+.title {
+    margin-bottom: 16px;
+.Tider{
+    margin-bottom: 16px;
+}
+}
+
+.tagline {
+    font-weight: 700;
+}
